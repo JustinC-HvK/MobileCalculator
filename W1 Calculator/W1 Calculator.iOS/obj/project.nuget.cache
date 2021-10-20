@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCTpD4D8Ua3sHT7lKKJ0X4iAXcSMJVQf4t0EzXSBFHOmu61oGJdEPQxk7Kgt52ycXTX03pQuQ8PIao47K4vV8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justin\\OneDrive\\Techtorium\\Year2\\T4\\W1 Calculator\\W1 Calculator\\W1 Calculator.iOS\\W1 Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
